@@ -239,7 +239,8 @@ h2{
     body{
         margin: 0;
         padding: 0;
-        justify-content: flex-start;
+        justify-items: center;
+        justify-content: center;
         align-items: center;
     }
         
