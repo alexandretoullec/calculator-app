@@ -244,7 +244,6 @@ h2{
     }
         
     .container{
-        
         margin: 0.9rem;
         padding: 0;
     }
@@ -252,31 +251,31 @@ h2{
     .switch-container{
         display: flex;
         justify-content: space-between;
-        width: 26rem;
+        width: 30rem;
     }
   
     .calculator .value{
-        width: 26rem;
+        width: 30rem;
     }
 
     .calculator .touch{
-        width: 26rem;
+        width: 30rem;
     }
 
     .calculator span{
-        width: 5rem;
-        height: 5rem;
-        margin: 0.3rem;
+        width: 6rem;
+        height: 6rem;
+        margin: 0.4rem;
         font-size: 1.5rem;
         /* margin-bottom: 1rem; */
     }
 
     .calculator .clear{
-        width: 11rem;
+        width: 13rem;
     }
 
     .calculator .equal{
-        width :11rem;
+        width :13rem;
     }
 
 }
